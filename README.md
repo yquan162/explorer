@@ -1,4 +1,4 @@
-Iquidus Explorer - 1.6.1
+Clements Explorer - 1.6.1
 ================
 
 An open source block explorer written in node.js.
@@ -100,7 +100,7 @@ sync.js (located in scripts/) is used for updating the local databases. This scr
 
 ### Wallet
 
-Iquidus Explorer is intended to be generic so it can be used with any wallet following the usual standards. The wallet must be running with atleast the following flags
+Clements Explorer is intended to be generic so it can be used with any wallet following the usual standards. The wallet must be running with atleast the following flags
 
     -daemon -txindex
 
