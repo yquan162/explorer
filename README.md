@@ -5,12 +5,7 @@ An open source block explorer written in node.js.
 
 ### See it in action
 
-*  [Jumbucks](http://explorer.getjumbucks.com)
-*  [Sphere](http://sphere.iquidus.io)
-*  [SAR](http://explorer.sarcoin.info)
-*  [Vanillacoin](https://blockchain.vanillacoin.net/)
-*  [Neoscoin](http://explorer.infernopool.com/)  
-*  [C2Chain](http://c2chain.info/)
+All the old links are inactive and will just lead you to sketchy sites. I've removed them so no one will fall victim to these internet predators.
 
 *note: If you would like your instance mentioned here contact me*
 
